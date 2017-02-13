@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Under The Dome
 tagline:             Under The Dome
 description:         All Episodes of UTD is available here
-url:                 http://uthedome.github.io
+url:                 http://uthedome.github.io/utd
 baseurl:             ''
 paginate:            5
 
@@ -19,4 +19,5 @@ author:
 
 # Custom vars
 version:             1.0.0
+
 excerpt_separator:  <!--more-->
